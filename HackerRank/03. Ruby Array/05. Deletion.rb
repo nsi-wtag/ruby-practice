@@ -3,7 +3,7 @@ def end_arr_delete(arr)
 end
 
 def start_arr_delete(arr)
-arr.shift  
+  arr.shift  
 end
 
 def delete_at_arr(arr, index)
