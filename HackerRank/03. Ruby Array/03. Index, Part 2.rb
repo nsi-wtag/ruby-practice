@@ -13,3 +13,7 @@ end
 def first_n(arr, n)
   arr.take(n)
 end
+
+def drop_n(arr, n)
+  arr.drop(n)
+end
